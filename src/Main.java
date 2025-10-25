@@ -53,5 +53,12 @@ public class Main {
             frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
         }
         System.out.println("Частота: " + frequencyMap);
+        
+        System.out.println("\n\t===\tЗадание 2\t===\n");
+        
+        PrimesGeneratorTest.main(new String[]{});
+        
+        
     }
 }
+
