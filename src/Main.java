@@ -61,6 +61,14 @@ public class Main {
         System.out.println("\n\t===\tЗадание 3\t===\n");
         
         HumanTest.main(new String[]{});
+        
+        System.out.println("\n\t===\tЗадание 4\t===\n");
+       
+        WordFrequency.main(args);
+        
+        System.out.println("\n\t===\tЗадание 5\t===\n");
+        
+        MapUtils.main(args);
     }
 }
 
