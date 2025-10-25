@@ -58,7 +58,9 @@ public class Main {
         
         PrimesGeneratorTest.main(new String[]{});
         
+        System.out.println("\n\t===\tЗадание 3\t===\n");
         
+        HumanTest.main(new String[]{});
     }
 }
 
